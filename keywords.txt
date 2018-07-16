@@ -1,5 +1,5 @@
-OpenServo    KEYWORD1
-setPosition  KEYWORD2
-getPosition  KEYWORD2
-enable       KEYWORD2
-disable      KEYWORD2
+OpenServo	KEYWORD1
+setPosition	KEYWORD2
+getPosition	KEYWORD2
+enable	KEYWORD2
+disable	KEYWORD2
